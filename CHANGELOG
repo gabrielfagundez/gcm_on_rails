@@ -1,3 +1,5 @@
+1.0.1
+  - Use Rails 4 approach when searching for not sent notifications on APN::Notification
 1.0.0
   - Add compatibility with Rails 4
   - Remove attr_accessible on Gcm::Device
